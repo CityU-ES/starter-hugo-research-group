@@ -18,19 +18,5 @@ design:
 ---
 
 <br>
-## DATE & TIME
 
-### &emsp;&emsp;&emsp;     August 17 2019
-###    &emsp;&emsp;&emsp;     9:00 am -6:00 pm
-
-## Co-Chairs
-
-### &emsp;&emsp;&emsp;              Gavin FENG 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;gavin.feng@cityu.edu.hk
-###   &emsp;&emsp;&emsp;          Alan WAN 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;msawan@cityu.edu.hk
-
-## Venue
-
-###     &emsp;&emsp;&emsp;     8th floor, Lau Ming Wai Academic Building, City University of Hong Kong
-
+The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
